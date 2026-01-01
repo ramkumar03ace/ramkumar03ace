@@ -14,50 +14,10 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <div>
-        <!-- Strips -->
-        <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c&perline=6" alt="languages" />
-        <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase,aws,vercel&perline=6" alt="cloud-db" />
-        <br>
-        <!-- Individual Icons -->
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-        <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-        <img src="https://skillicons.dev/icons?i=azure" height="50" alt="azure logo"  />
-        <img src="https://skillicons.dev/icons?i=django" height="50" alt="django logo"  />
-        <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
-        <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
-        <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="intellij logo"  />
-        <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
-        <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
-        <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
-        <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo"  />
-        <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
-        <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="tensorflow logo"  />
-        <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="50" alt="vim logo"  />
-        <img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite logo"  />
-        <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="googlecloud logo"  />
-        <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
-        <img src="https://cdn.simpleicons.org/npm/CB3837" height="50" alt="npm logo"  />
-        <!-- Cybersecurity -->
-        <img src="https://skillicons.dev/icons?i=kali" height="50" alt="kali logo" />
-        <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo" />
-      </div>
-    </td>
-    <td width="5%"></td>
-    <td width="35%" valign="middle">
-      <div align="center">
-        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG8zNjduYnNsYXR1bDA3aTR2OG53ZTA5cmp2ZGc2bm90NjZyYmZ6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="100%" />
-      </div>
-    </td>
-  </tr>
-</table>
-<br>
+<div align="left">
+  <img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG8zNjduYnNsYXR1bDA3aTR2OG53ZTA5cmp2ZGc2bm90NjZyYmZ6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,postgres,mongodb,firebase,supabase,aws,vercel,html,css,react,azure,django,docker,git,github,idea,linux,mysql,nodejs,spring,tailwind,tensorflow,vscode,vim,vite,gcp,postman,npm,kali,bash&perline=7" alt="skills" />
+</div>
 
 ---
 
@@ -91,11 +51,11 @@
 
 - 🤖 I’m currently learning **Machine Learning**
 
-- 💻 All of my projects are available at **[Portfolio Website]** (https://rk-dev-portfolio.vercel.app)
+- 💻 All of my projects are available at [**Portfolio Website**](https://rk-dev-portfolio.vercel.app)
 
 - 📫 How to reach me **ramkumar.arcot2022@vitstudent.ac.in**
 
-- 📄 Know about my experiences **[Resume Link]** (https://drive.google.com/file/d/1D1hwPF1P9h2okLIGxZdqYOzF1_w5aKAO/view?usp=sharing)
+- 📄 Know about my experiences [**Resume Link**](https://drive.google.com/file/d/1D1hwPF1P9h2okLIGxZdqYOzF1_w5aKAO/view?usp=sharing)
 
 - ⚡ Fun fact **I enjoy spinning up servers just to see what I can break (and then fix)!**
 

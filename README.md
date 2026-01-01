@@ -19,12 +19,9 @@
 ###
 
 <div align="center">
-  <div style="display: inline-block; vertical-align: middle; text-align: left;">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,postgres,mongodb,firebase,supabase,aws,vercel,html,css,react,azure,django,docker,git,github,idea,linux,mysql,nodejs,spring,tailwind,tensorflow,vscode,vim&perline=7" alt="skills" /><br>
-    <img src="https://skillicons.dev/icons?i=vite,gcp,postman,npm,kali,bash&perline=6" alt="skills" />
-  </div>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,postgres,mongodb,firebase,supabase,aws,vercel,html,css,react,azure,django,docker,git,github,idea,linux,mysql,nodejs,spring,tailwind,tensorflow,vscode,vim,vite,gcp,postman,npm,kali,bash&perline=7" alt="skills" align="middle" />
   <img width="50" height="1" />
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG8zNjduYnNsYXR1bDA3aTR2OG53ZTA5cmp2ZGc2bm90NjZyYmZ6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" style="vertical-align: middle;" height="200" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG8zNjduYnNsYXR1bDA3aTR2OG53ZTA5cmp2ZGc2bm90NjZyYmZ6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" align="middle" height="200" />
 </div>
 
 <div align="center">

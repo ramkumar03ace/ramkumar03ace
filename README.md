@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQGrBvZFqGKEEQ/profile-displaybackgroundimage-shrink_350_1400/B56ZaXCgAAGUAY-/0/1746290740460?e=1753315200&v=beta&t=9ArdqYrNRiR0IBoZfSBoKPblOPNMdMau9-WdEAHwxVU"/>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGrBvZFqGKEEQ/profile-displaybackgroundimage-shrink_350_1400/B56ZaXCgAAGUAY-/0/1746290740460?e=1769040000&v=beta&t=QzWWkxzcuQQL5AWN6-AAtuld7EysY_Ea69xH71yS38Y"/>
 
 <h1 align="left">Hello World👋! My name is Ramkumar Arcot Dharmalingam and I'm a Final Year Student @VITv </h1>
 
@@ -111,7 +111,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramkumar03ace&label=Profile%20views&color=0e75b6&style=flat" alt="ramkumar03ace" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramkumar03ace" alt="ramkumar03ace" /></a> </p>
+<p align="left"> <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramkumar03ace" alt="ramkumar03ace" /></a> --> </p>
 
 - 🔭 I’m currently preparing for the **AWS Solutions Architect Associate (SAA) Certification**
 

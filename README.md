@@ -17,7 +17,6 @@
 </div>
 
 ###
----
 
 <div align="center">
   <div style="display: inline-block; vertical-align: middle; text-align: left;">
@@ -28,6 +27,29 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG8zNjduYnNsYXR1bDA3aTR2OG53ZTA5cmp2ZGc2bm90NjZyYmZ6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" style="vertical-align: middle;" height="200" />
 </div>
 
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,postgres,mongodb,firebase,supabase,aws,vercel,html,css,react,azure,django,docker,git,github,idea,linux,mysql,nodejs,spring,tailwind,tensorflow,vscode,vim&perline=7" alt="skills" />
+      <br>
+      <img src="https://skillicons.dev/icons?i=vite,gcp,postman,npm,kali,bash&perline=6" alt="skills" />
+    </td>
+    <td align="center" style="border: none; padding-left: 20px;">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG8zNjduYnNsYXR1bDA3aTR2OG53ZTA5cmp2ZGc2bm90NjZyYmZ6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" height="200" />
+    </td>
+  </tr>
+</table>
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <div style="text-align: left;">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,postgres,mongodb,firebase,supabase,aws,vercel,html,css,react,azure,django,docker,git,github,idea,linux,mysql,nodejs,spring,tailwind,tensorflow,vscode,vim&perline=7" alt="skills" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=vite,gcp,postman,npm,kali,bash&perline=6" alt="skills" />
+  </div>
+  <div>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG8zNjduYnNsYXR1bDA3aTR2OG53ZTA5cmp2ZGc2bm90NjZyYmZ6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" height="200" style="display: block;" />
+  </div>
+</div>
 
 <div align="center">
   <a href="ramkumar.arcot2022@vitstudent.ac.in" target="_blank">

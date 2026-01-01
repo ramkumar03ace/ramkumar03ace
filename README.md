@@ -16,12 +16,14 @@
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=ramkumar03ace&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+###
 
 <div align="center">
   <img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG8zNjduYnNsYXR1bDA3aTR2OG53ZTA5cmp2ZGc2bm90NjZyYmZ6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" />
-  <!-- All 35 Icons (6 per row) -->
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,postgres,mongodb,firebase,supabase,aws,vercel,html,css,react,azure,django,docker,git,github,idea,linux,mysql,nodejs,spring,tailwind,tensorflow,vscode,vim,vite,gcp,postman,npm,kali,bash&perline=7" alt="skills" />
+  <!-- All 35 Icons (7 per row) -->
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,postgres,mongodb,firebase,supabase,aws,vercel,html,css,react,azure,django,docker,git,github,idea,linux,mysql,nodejs,spring,tailwind,tensorflow,vscode,vim,vite,gcp,postman,npm,kali,bash&perline=7" alt="skills" />
 </div>
+###
 
 <div align="center">
   <a href="ramkumar.arcot2022@vitstudent.ac.in" target="_blank">

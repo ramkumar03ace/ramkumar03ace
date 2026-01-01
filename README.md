@@ -42,7 +42,6 @@
   </a>
 </div-->
 
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramkumar03ace/ramkumar03ace/output/github-snake-dark.svg" />

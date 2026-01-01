@@ -12,46 +12,54 @@
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=ramkumar03ace&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+---
 
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG8zNjduYnNsYXR1bDA3aTR2OG53ZTA5cmp2ZGc2bm90NjZyYmZ6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" hspace="50" />
-
-###
-
-<div align="left">
-  <!-- Strips -->
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c&perline=6" alt="languages" />
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase,aws,vercel&perline=6" alt="cloud-db" />
-  <br>
-  <!-- Individual Icons -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-  <img src="https://skillicons.dev/icons?i=azure" height="50" alt="azure logo"  />
-  <img src="https://skillicons.dev/icons?i=django" height="50" alt="django logo"  />
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="intellij logo"  />
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
-  <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo"  />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="tensorflow logo"  />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="50" alt="vim logo"  />
-  <img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite logo"  />
-  <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="googlecloud logo"  />
-  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="50" alt="npm logo"  />
-  <!-- Cybersecurity -->
-  <img src="https://skillicons.dev/icons?i=kali" height="50" alt="kali logo" />
-  <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo" />
-</div>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <div>
+        <!-- Strips -->
+        <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c&perline=6" alt="languages" />
+        <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase,aws,vercel&perline=6" alt="cloud-db" />
+        <br>
+        <!-- Individual Icons -->
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+        <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
+        <img src="https://skillicons.dev/icons?i=azure" height="50" alt="azure logo"  />
+        <img src="https://skillicons.dev/icons?i=django" height="50" alt="django logo"  />
+        <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
+        <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+        <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="intellij logo"  />
+        <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
+        <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
+        <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
+        <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo"  />
+        <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
+        <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="tensorflow logo"  />
+        <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="50" alt="vim logo"  />
+        <img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite logo"  />
+        <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="googlecloud logo"  />
+        <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
+        <img src="https://cdn.simpleicons.org/npm/CB3837" height="50" alt="npm logo"  />
+        <!-- Cybersecurity -->
+        <img src="https://skillicons.dev/icons?i=kali" height="50" alt="kali logo" />
+        <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo" />
+      </div>
+    </td>
+    <td width="5%"></td>
+    <td width="35%" valign="middle">
+      <div align="center">
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG8zNjduYnNsYXR1bDA3aTR2OG53ZTA5cmp2ZGc2bm90NjZyYmZ6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="100%" />
+      </div>
+    </td>
+  </tr>
+</table>
 <br>
 
-###
+---
 
 <div align="center">
   <a href="ramkumar.arcot2022@vitstudent.ac.in" target="_blank">
@@ -72,7 +80,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/ramkumar03ace/ramkumar03ace/output/github-snake.svg" />
 </picture>
 
-###
+---
 
 
 <h3 align="center">Full-time CSE student @VITv, part-time bug hunter 🐞</h3>

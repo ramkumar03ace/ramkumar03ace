@@ -1,6 +1,8 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQGrBvZFqGKEEQ/profile-displaybackgroundimage-shrink_350_1400/B56ZaXCgAAGUAY-/0/1746290740460?e=1769040000&v=beta&t=QzWWkxzcuQQL5AWN6-AAtuld7EysY_Ea69xH71yS38Y"/>
 
-<h1 align="left">Hello World👋! My name is Ramkumar Arcot Dharmalingam and I'm a Final Year Student @VITv </h1>
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7931A&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I%27m+Ramkumar+Arcot;Final+Year+Student+%40VITv;Learning+Machine+Learning;Part-time+Bug+Hunter+%F0%9F%90%9E" alt="Typing SVG" />
+</div>
 
 ###
 
@@ -16,7 +18,12 @@
 
 <div align="left">
   <img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG8zNjduYnNsYXR1bDA3aTR2OG53ZTA5cmp2ZGc2bm90NjZyYmZ6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" />
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,postgres,mongodb,firebase,supabase,aws,vercel,html,css,react,azure,django,docker,git,github,idea,linux,mysql,nodejs,spring,tailwind,tensorflow,vscode,vim,vite,gcp,postman,npm,kali,bash&perline=7" alt="skills" />
+  <!-- Group 1: 30 Icons (5 rows of 6) -->
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,postgres,mongodb,firebase,supabase,aws,vercel,html,css,react,azure,django,docker,git,github,idea,linux,mysql,nodejs,spring,tailwind,tensorflow,vscode,vim,vite&perline=6" alt="skills" />
+  <br>
+  <!-- Group 2: Remaining 5 Icons (Centered) -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=gcp,postman,npm,kali,bash" alt="skills-row-last" />
 </div>
 
 ---

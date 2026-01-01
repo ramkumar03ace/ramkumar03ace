@@ -20,65 +20,35 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="50" alt="azure logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="50" alt="django logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="intellij logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="50" alt="moodle logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="tensorflow logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="50" alt="ubuntu logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="50" alt="vim logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="googlecloud logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="50" alt="npm logo"  />
 </div>
 <br>
@@ -113,13 +83,13 @@
 
 <p align="left"> <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramkumar03ace" alt="ramkumar03ace" /></a> --> </p>
 
-- 🔭 I’m currently preparing for the **AWS Solutions Architect Associate (SAA) Certification**
+- 🤖 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [rk-dev-portfolio.vercel.app](rk-dev-portfolio.vercel.app)
+- �‍💻 All of my projects are available at [Portfolio](https://rk-dev-portfolio.vercel.app)
 
 - 📫 How to reach me **ramkumar.arcot2022@vitstudent.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1K5Ex3_yYRsnxroMu72CRvXpL_6YvIA6G/view?usp=drive_link](https://drive.google.com/file/d/1K5Ex3_yYRsnxroMu72CRvXpL_6YvIA6G/view?usp=drive_link)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1D1hwPF1P9h2okLIGxZdqYOzF1_w5aKAO/view?usp=sharing)
 
 - ⚡ Fun fact **I enjoy spinning up servers just to see what I can break (and then fix)!**
 

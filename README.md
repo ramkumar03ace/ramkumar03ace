@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7931A&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%8B;I%27m+Ramkumar+A+D;Full+Stack+Developer+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;Exploring+AI+%26+ML+%F0%9F%A4%96;Welcome+to+my+Profile!+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-
-
 ###
 
 <div align="center">
@@ -18,38 +16,18 @@
 
 ###
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,postgres,mongodb,firebase,supabase,aws,vercel,html,css,react,azure,django,docker,git,github,idea,linux,mysql,nodejs,spring,tailwind,tensorflow,vscode,vim,vite,gcp,postman,npm,kali,bash&perline=7" alt="skills" align="middle" />
-  <img width="50" height="1" />
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG8zNjduYnNsYXR1bDA3aTR2OG53ZTA5cmp2ZGc2bm90NjZyYmZ6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" align="middle" height="200" />
-</div>
-
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td align="left" valign="middle" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,postgres,mongodb,firebase,supabase,aws,vercel,html,css,react,azure,django,docker,git,github,idea,linux,mysql,nodejs,spring,tailwind,tensorflow,vscode,vim&perline=7" alt="skills" />
-        <br>
-        <img src="https://skillicons.dev/icons?i=vite,gcp,postman,npm,kali,bash&perline=6" alt="skills" />
-      </td>
-      <td width="30" style="border: none;"></td>
-      <td align="center" valign="middle" style="border: none;">
-        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG8zNjduYnNsYXR1bDA3aTR2OG53ZTA5cmp2ZGc2bm90NjZyYmZ6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" height="190" />
-      </td>
-    </tr>
-  </table>
-</div>
-
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <div style="text-align: left;">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,postgres,mongodb,firebase,supabase,aws,vercel,html,css,react,azure,django,docker,git,github,idea,linux,mysql,nodejs,spring,tailwind,tensorflow,vscode,vim&perline=7" alt="skills" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,postgres,mongodb,firebase,supabase,aws,vercel,html,css,react,azure,django,docker,git,github,idea,linux,mysql,nodejs,spring,tailwind,tensorflow&perline=10" alt="skills" />
     <br>
-    <img src="https://skillicons.dev/icons?i=vite,gcp,postman,npm,kali,bash&perline=6" alt="skills" />
+    <img src="https://skillicons.dev/icons?i=vite,vscode,vim,gcp,postman,npm,kali,bash&perline=8" alt="skills" />
   </div>
+  <br>
   <div>
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG8zNjduYnNsYXR1bDA3aTR2OG53ZTA5cmp2ZGc2bm90NjZyYmZ6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" height="200" style="display: block;" />
   </div>
 </div>
+<br>
 
 <div align="center">
   <a href="ramkumar.arcot2022@vitstudent.ac.in" target="_blank">

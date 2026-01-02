@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ramkumar03ace&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img width="20" />
-  <img src="https://streak-stats.demolab.com?user=ramkumar03ace&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ramkumar03ace&locale=en&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <br><br>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=ramkumar03ace&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -59,11 +59,20 @@
 
 <p align="left"> <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramkumar03ace" alt="ramkumar03ace" /></a> --> </p>
 
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1;">
+
 - 🤖 I’m currently learning **Machine Learning**
 - 💻 My projects are available at [**Portfolio Website**](https://rk-dev-portfolio.vercel.app)
 - 📄 Read about my experiences in my [**Resume**](https://drive.google.com/file/d/1D1hwPF1P9h2okLIGxZdqYOzF1_w5aKAO/view?usp=sharing)
 - 📫 Reach me via email at **ramkumar.arcot2022@vitstudent.ac.in**
 - ⚡ Fun fact: **I enjoy spinning up servers just to see what I can break (and then fix)!**
+
+  </div>
+  <div style="flex: 0.5; text-align: right;">
+    <img src="https://i.pinimg.com/originals/15/70/84/157084787880c1ead98ec92332da7094.gif" width="250" alt="coding gif" />
+  </div>
+</div>
 
 <h3 align="left">
   🤝 Connect with me: &nbsp;

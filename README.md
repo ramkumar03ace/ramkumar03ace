@@ -1,4 +1,7 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQGrBvZFqGKEEQ/profile-displaybackgroundimage-shrink_350_1400/B56ZaXCgAAGUAY-/0/1746290740460?e=1769040000&v=beta&t=QzWWkxzcuQQL5AWN6-AAtuld7EysY_Ea69xH71yS38Y"/>
+<!--img src="https://media.licdn.com/dms/image/v2/D5616AQGrBvZFqGKEEQ/profile-displaybackgroundimage-shrink_350_1400/B56ZaXCgAAGUAY-/0/1746290740460?e=1769040000&v=beta&t=QzWWkxzcuQQL5AWN6-AAtuld7EysY_Ea69xH71yS38Y"/-->
+
+![laptop-with-glowing-screen-table-dark-top-view-copy-space](https://github.com/user-attachments/assets/20238b1a-aa4a-4693-928f-5d741b8b0a50)
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7931A&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%8B;I%27m+Ramkumar+A+D;Full+Stack+Developer+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;Exploring+AI+%26+ML+%F0%9F%A4%96;Welcome+to+my+Profile!+%F0%9F%9A%80" alt="Typing SVG" />

@@ -60,12 +60,18 @@
 
 <p align="left"> <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramkumar03ace" alt="ramkumar03ace" /></a> --> </p>
 
-- 🧠 **AI & Machine Learning:** Currently learning **Machine Learning** and leveraging advanced AI agents (**Codex**, **Claude**, **Antigravity**, **OpenClaw**) to build, architect, and optimize robust applications.
-- 💻 My projects are available at [**Portfolio Website**](https://rk-dev-portfolio.vercel.app)
-- 📄 Read about my experiences in my [**Resume**](https://drive.google.com/file/d/1D1hwPF1P9h2okLIGxZdqYOzF1_w5aKAO/view?usp=sharing)
-- 📫 Reach me via email at **ramkumar.arcot2022@vitstudent.ac.in**
-- 🔌 **Homelab & Networking Geek:** Passionate about physical networking, building home servers, self-hosting, running CAT cables, and managing TrueNAS.
-- ⚡ Fun fact: **I enjoy spinning up servers just to see what I can break (and then fix)!**
+- 🧠 **AI & Machine Learning:** Currently learning **Machine Learning** and leveraging advanced AI agents (**Codex**, **Claude**, **Antigravity**, **OpenClaw**) to build, architect, and optimize robust applications.  
+
+- 🔌 **Homelab & Networking Geek:** Passionate about physical networking, building home servers, self-hosting, running CAT cables, and managing TrueNAS.  
+
+- ⚡ **Fun fact:** I enjoy spinning up servers just to see what I can break (and then fix)! 
+
+- 💻 My projects are available at [**Portfolio Website**](https://rk-dev-portfolio.vercel.app)  
+
+- 📄 Read about my experiences in my [**Resume**](https://drive.google.com/file/d/1D1hwPF1P9h2okLIGxZdqYOzF1_w5aKAO/view?usp=sharing)  
+
+- 📫 Reach me via email at **ramkumar.arcot2022@vitstudent.ac.in**  
+
 
 
 <h3 align="left">

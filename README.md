@@ -1,10 +1,10 @@
-<!--img src="https://media.licdn.com/dms/image/v2/D5616AQGrBvZFqGKEEQ/profile-displaybackgroundimage-shrink_350_1400/B56ZaXCgAAGUAY-/0/1746290740460?e=1769040000&v=beta&t=QzWWkxzcuQQL5AWN6-AAtuld7EysY_Ea69xH71yS38Y"/-->
+ <!--img src="https://media.licdn.com/dms/image/v2/D5616AQGrBvZFqGKEEQ/profile-displaybackgroundimage-shrink_350_1400/B56ZaXCgAAGUAY-/0/1746290740460?e=1769040000&v=beta&t=QzWWkxzcuQQL5AWN6-AAtuld7EysY_Ea69xH71yS38Y"/-->
 
 ![laptop-with-glowing-screen-table-dark-top-view-copy-space](https://github.com/user-attachments/assets/20238b1a-aa4a-4693-928f-5d741b8b0a50)
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7931A&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%8B;I%27m+Ramkumar+A+D;Full+Stack+Developer+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;Exploring+AI+%26+ML+%F0%9F%A4%96;Welcome+to+my+Profile!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7931A&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%8B;I%27m+Ramkumar+A+D;Full+Stack+Developer+%F0%9F%92%BB;AI-Assisted+Coder+%F0%9F%A7%A0;Cybersecurity+Enthusiast+%F0%9F%94%90;Exploring+AI+%26+ML+%F0%9F%A4%96;Welcome+to+my+Profile!+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br>
@@ -54,19 +54,19 @@
 
 ---
 
-<h3 align="center">Full-time CSE student, part-time bug hunter 🐞</h3>
+<h3 align="center">Weaving secure code alongside AI, one broken server at a time 🛠️</h3>
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramkumar03ace&label=Profile%20views&color=0e75b6&style=flat" alt="profile view count" /> </p>
-
 <p align="left"> <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramkumar03ace" alt="ramkumar03ace" /></a> --> </p>
 
-- 🤖 I’m currently learning **Machine Learning**
+- 🧠 **AI & Machine Learning:** Currently learning **Machine Learning** and leveraging advanced AI agents (**Codex**, **Claude**, **Antigravity**, **OpenClaw**) to build, architect, and optimize robust applications.
 - 💻 My projects are available at [**Portfolio Website**](https://rk-dev-portfolio.vercel.app)
 - 📄 Read about my experiences in my [**Resume**](https://drive.google.com/file/d/1D1hwPF1P9h2okLIGxZdqYOzF1_w5aKAO/view?usp=sharing)
 - 📫 Reach me via email at **ramkumar.arcot2022@vitstudent.ac.in**
+- 🔌 **Homelab & Networking Geek:** Passionate about physical networking, building home servers, self-hosting, running CAT cables, and managing TrueNAS.
 - ⚡ Fun fact: **I enjoy spinning up servers just to see what I can break (and then fix)!**
+
 
 <h3 align="left">
   🤝 Connect with me: &nbsp;
@@ -76,6 +76,7 @@
   <a href="https://leetcode.com/u/ramkumar03ace/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=ramkumar03ace&label=Profile%20views&color=0e75b6&style=flat" alt="profile view count" align="right" />
 </h3>
 
 <br>

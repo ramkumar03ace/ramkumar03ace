@@ -76,12 +76,8 @@
 
 <h3 align="left">
   🤝 Connect with me: &nbsp;
-  <a href="https://www.linkedin.com/in/ramkumar03ace" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/ramkumar03ace/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
+  <a href="https://www.linkedin.com/in/ramkumar03ace" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/ramkumar03ace/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
   <img src="https://komarev.com/ghpvc/?username=ramkumar03ace&label=Profile%20views&color=0e75b6&style=flat" alt="profile view count" align="right" />
 </h3>
 
